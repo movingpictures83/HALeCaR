@@ -1,0 +1,2 @@
+Prefix plugins/HALeCaR/example/
+Plugin HALeCaR inputfile parameters.txt outputfile output.txt
